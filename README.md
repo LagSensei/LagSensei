@@ -1,4 +1,4 @@
-- 👋 Wassup , welcome to my profile , my name is Sangeeth Sarujan , you can call me Sarujan
+- 👋 Wassup , welcome to my profile , my name is Sangeeth Sarujan
 - 👀 Fields that im interested heavily in is Embedded Systems and Electronics 
 - 🌱 I’m currently learning the skills necessary 
 - 💞️ I’m looking to collaborate on ...
