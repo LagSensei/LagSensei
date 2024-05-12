@@ -1,8 +1,8 @@
-- 👋 Wassup , welcome to my profile , my name is Sangeeth Sarujan
-- 👀 Fields that im interested heavily in is Embedded Systems and Electronics 
-- 🌱 I’m currently learning the skills necessary 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Helloo, welcome to my profile , Sarujan here.
+- 👀  Embedded Systems and Electronics are the fields that im very interested in. 
+- 🌱 I’m currently learning the skills necessary to be an engineer as well self learning the techincal skills that is needed in the industry setting.
+- 💞️ I’m looking to collaborate on PCB Designs , Firmware codes , Electronic/Digital Circuit Designing
+- 📫 How to reach me 
 - ⚡ Fun fact: ...
 
 <!---
