@@ -23,7 +23,6 @@ Focused on electronics and embedded technologies to develop solutions that suppo
 ![CoAP](https://img.shields.io/badge/CoAP-008080?style=for-the-badge&logo=protocols&logoColor=white)
 ![BLE](https://img.shields.io/badge/BLE-0A84FF?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_IoT-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
@@ -71,6 +70,6 @@ Focused on electronics and embedded technologies to develop solutions that suppo
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- 📬 Always open to collaboration & learning
+- [LinkedIn](www.linkedin.com/in/nagarajah-sangeeth-sarujan-942551307)  
+- 📬 Dont hestiate to contact me !
 
