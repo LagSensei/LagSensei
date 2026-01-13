@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sarujan
-### 🔧 An Electrical and Electronic Engineering Undergrad here
+### 🔧 An Electrical and Electronic Engineering Grad here
 
 Focused on electronics and embedded technologies to develop solutions that support sustainability, optimize resource usage, and improve lives through innovation. Always open to learning in any domain and eager to help wherever I can.
 
@@ -13,6 +13,13 @@ Focused on electronics and embedded technologies to develop solutions that suppo
 - 📈 Low powered implementations
 
 ---
+
+### Experience
+
+- Baremetal Firmware Development for ESP32,STM32,Raspberry Pi Pico,nRF Chipsets
+- RTOS Development - FreeRTOS & Zephyr
+- Embedded GUI Development - Squareline Studios & EEZ Studio
+- Native SDKs - ESP-IDF, STM32CubeIDE & nRF connect SDK
 
 ### 🧰 Tech Stack
 
